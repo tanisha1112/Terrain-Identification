@@ -13,7 +13,7 @@ Files
 
 The repository contains 3 Jupyter notebooks: NN_C1.ipynb, NN_C2.ipynb and NN_C3.ipynb.
 * NN_C1 runs a random forest model for predictions
-* NN_C2 uses 2 1D CNN models 
+* NN_C2 uses 2 1D CNN model
 * NN_C3 uses a BiLSTM model. 
 
 
